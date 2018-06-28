@@ -1,0 +1,133 @@
+{
+    "bills": [
+        {
+            "id": 0,
+            "name": "Environmental Change Initiative"
+        },
+        {
+            "id": 1,
+            "name": "Gun Control Overhaul"
+        },
+        {
+            "id": 2,
+            "name": "Social Oversight Action Plan"
+        },
+        {
+            "id": 3,
+            "name": "Traffic Reform Act"
+        }
+    ],
+    "billPoliticians": [
+        {
+            "id": 0,
+            "bill": 0,
+            "politician": 2
+        },
+        {
+            "id": 1,
+            "bill": 1,
+            "politician": 0
+        },
+        {
+            "id": 2,
+            "bill": 1,
+            "politician": 1
+        },
+        {
+            "id": 3,
+            "bill": 2,
+            "politician": 2
+        },
+        {
+            "id": 4,
+            "bill": 3,
+            "politician": 3
+        }
+
+    ],
+    "politicians": [
+        {
+            "id": 0,
+            "name": "Bill Kedzie"
+        },
+        {
+            "id": 1,
+            "name": "Merry Withers"
+        },
+        {
+            "id": 2,
+            "name": "Henry Thornton"
+        },
+        {
+            "id": 3,
+            "name": "Chester Davis"
+        }
+    ],
+    "politicianPacs": [
+        {
+            "id": 0,
+            "pac": 0,
+            "politician": 0
+        },  
+        {
+            "id": 1,
+            "pac": 0,
+            "politician": 1
+        },
+        {
+            "id": 2,
+            "pac": 1,
+            "politician": 2
+        },
+        {
+            "id": 3,
+            "pac": 2,
+            "politician": 3
+        }
+    ],
+    "pacs": [
+        {
+            "id": 0,
+            "name": "NRA"
+        },
+        {
+            "id": 1,
+            "name": "PETA"
+        },
+        {
+            "id": 2,
+            "name": "NAACP"
+        }
+    ],
+    "corporationPacs":[
+        {
+            "id": 0,
+            "corporation": 0,
+            "pac": 0
+        },
+        {
+            "id": 1,
+            "corporation": 1,
+            "pac": 1
+        },
+        {
+            "id": 2,
+            "corporation": 2,
+            "pac": 2
+        }
+    ],
+    "corporations":[
+        {
+            "id": 0,
+            "name": "WalMart"
+        },
+        {
+            "id": 1,
+            "name": "Pizza Hut"
+        },
+        {
+            "id": 2,
+            "name": "Disney Inc"
+        }
+    ]    
+}
